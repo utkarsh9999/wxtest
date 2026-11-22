@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>VisionStream</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.devraj.visionstream</string>
+    <key>CFBundleName</key>
+    <string>VisionStream</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires access to the camera to display your live OpenCV video feed.</string>
+</dict>
+</plist>

@@ -1,0 +1,3 @@
+g++ main.cpp $(wx-config --cxxflags --libs) -o my_wx_app
+mkdir -p "MyWxWidgetsApp.app/Contents/MacOS" 
+mv my_wx_app "MyWxWidgetsApp.app/Contents/MacOS/MyWxWidgetsApp"
